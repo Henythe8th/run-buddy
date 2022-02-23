@@ -1,1 +1,14 @@
-# run-buddy project for Vanderbilt Bootcaamp this is our first project where were practicing our skills
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [Henythe8th]
